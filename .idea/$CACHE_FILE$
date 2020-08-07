@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/KtorHelloWorld" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/SeihekiAnalyzerBot" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/docker-compose-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/kotlin-wrappers" value="PREVIEW" />
+        <entry key="$USER_HOME$/Programming/KotlinPoet/kotlinpoet-playground" value="PREVIEW" />
+        <entry key="$USER_HOME$/heroku/limitless-waters-40937" value="PREVIEW" />
+        <entry key="$USER_HOME$/heroku/line-bot-sdk-java" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
